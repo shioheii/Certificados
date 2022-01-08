@@ -11,4 +11,4 @@ Irei disponibilizar aqui, para visualização, minhas certificações de cursos 
 - [Workshop - TreinaWeb Multi-stack 2](https://github.com/shioheii/Certificados/blob/main/Meus%20certificados/TreinaWeb/Multi-stack%202%C2%AA%20edi%C3%A7%C3%A3o%20-%20Workshop.pdf)
 
 ## Rocketseat
-- [DoWhile 2021](https://github.com/shioheii/Certificados/blob/main/Meus%20certificados/Rocketseat/DoWhile%202021.pdf)
+- [DoWhile - 2021](https://github.com/shioheii/Certificados/blob/main/Meus%20certificados/Rocketseat/DoWhile%202021.pdf)
