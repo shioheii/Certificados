@@ -21,3 +21,6 @@ Irei disponibilizar aqui, para visualização, minhas certificações de cursos 
 - [Introdução à Análise de Dados com Excel](https://github.com/shioheii/Certificados/blob/main/Meus%20certificados/FEAU%20-%20Univap/Introdu%C3%A7%C3%A3o%20%C3%A0%20An%C3%A1lise%20de%20Dados%20com%20Excel.pdf)
 - [Aluno Monitor de Matemática](https://github.com/shioheii/Certificados/blob/main/Meus%20certificados/FEAU%20-%20Univap/Aluno%20Monitor%20Matem%C3%A1tica.pdf)
 - [12ª Maratona de Programação Jr](https://github.com/shioheii/Certificados/blob/main/Meus%20certificados/FEAU%20-%20Univap/12%C2%AA%20Maratona%20de%20Programa%C3%A7%C3%A3o%20Jr..pdf)
+
+## GDG Brasil
+- [IO Extended Brasil 2023](https://github.com/shioheii/Certificados/blob/main/Meus%20certificados/GDG%20Brasil/IO%20Extended%20Brasil%202023.pdf)
