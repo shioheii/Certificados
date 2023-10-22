@@ -24,3 +24,7 @@ Irei disponibilizar aqui, para visualização, minhas certificações de cursos 
 
 ## GDG Brasil
 - [IO Extended Brasil 2023](https://github.com/shioheii/Certificados/blob/main/Meus%20certificados/GDG%20Brasil/IO%20Extended%20Brasil%202023.pdf)
+
+## INIC 
+- [Certificado de trabalho aceito - XVII INIC Jr](https://github.com/shioheii/Certificados/blob/main/Meus%20certificados/INIC/certificado_trabalho-aceito_ICEIJID0413.pdf)
+- [Certificado de trabalho apresentado - XVII INIC Jr](https://github.com/shioheii/Certificados/blob/main/Meus%20certificados/INIC/certificado_apresentacao-painel_ICEIJID0413.pdf)
