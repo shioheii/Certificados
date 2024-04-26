@@ -23,11 +23,11 @@ Irei disponibilizar aqui, para visualização, minhas certificações de cursos 
 ## Syncfusion
 - [Workshop - Creating a Real-Time Chat Application](https://github.com/shioheii/Certificados/blob/main/Meus%20certificados/Syncfusion/Certificate_Bruno-Shiohei.pdf)
 
-## TreinaWeb
-- [Workshop - TreinaWeb Multi-stack 2](https://github.com/shioheii/Certificados/blob/main/Meus%20certificados/TreinaWeb/Multi-stack%202%C2%AA%20edi%C3%A7%C3%A3o%20-%20Workshop.pdf)
-
 ## Cisco Networking Academy
 - [Introduction to Packet Tracer](https://github.com/shioheii/Certificados/blob/main/Meus%20certificados/Cisco%20Networking%20Academy/Introduction%20to%20Packet%20Tracer.pdf)
+
+## TreinaWeb
+- [Workshop - TreinaWeb Multi-stack 2](https://github.com/shioheii/Certificados/blob/main/Meus%20certificados/TreinaWeb/Multi-stack%202%C2%AA%20edi%C3%A7%C3%A3o%20-%20Workshop.pdf)
 
 ## GDG Brasil
 - [IO Extended Brasil 2023](https://github.com/shioheii/Certificados/blob/main/Meus%20certificados/GDG%20Brasil/IO%20Extended%20Brasil%202023.pdf)
