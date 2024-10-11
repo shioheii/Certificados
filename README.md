@@ -20,6 +20,9 @@ Irei disponibilizar aqui, para visualização, minhas certificações de cursos 
 - [Certificado de trabalho aceito - XVII INIC Jr](https://github.com/shioheii/Certificados/blob/main/Meus%20certificados/INIC/certificado_trabalho-aceito_ICEIJID0413.pdf)
 - [Certificado de trabalho apresentado - XVII INIC Jr](https://github.com/shioheii/Certificados/blob/main/Meus%20certificados/INIC/certificado_apresentacao-painel_ICEIJID0413.pdf)
 
+## Olimpíada Canguru de Matemática
+- [Medalha de Bronze](https://admin.cangurudematematicabrasil.com.br/ValidaCertificado?Codigo=38779701806217)
+
 ## Syncfusion
 - [Workshop - Creating a Real-Time Chat Application](https://github.com/shioheii/Certificados/blob/main/Meus%20certificados/Syncfusion/Certificate_Bruno-Shiohei.pdf)
 
