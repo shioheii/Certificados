@@ -6,6 +6,7 @@ Irei disponibilizar aqui, para visualização, minhas certificações de cursos 
 - [Introdução à Análise de Dados com Excel](https://github.com/shioheii/Certificados/blob/main/Meus%20certificados/FEAU%20-%20Univap/Introdu%C3%A7%C3%A3o%20%C3%A0%20An%C3%A1lise%20de%20Dados%20com%20Excel.pdf)
 - [Aluno Monitor de Matemática](https://github.com/shioheii/Certificados/blob/main/Meus%20certificados/FEAU%20-%20Univap/Aluno%20Monitor%20Matem%C3%A1tica.pdf)
 - [12ª Maratona de Programação Jr](https://github.com/shioheii/Certificados/blob/main/Meus%20certificados/FEAU%20-%20Univap/12%C2%AA%20Maratona%20de%20Programa%C3%A7%C3%A3o%20Jr..pdf)
+- [Palestra - Semana da Informática 2024](https://github.com/shioheii/Certificados/blob/main/Meus%20certificados/FEAU%20-%20Univap/Palestra%20Semana%20da%20Inform%C3%A1tica%202024.pdf)
 
 ## Kenzie Academy
 - [Maratona do Zero ao Código - IV Edição](https://github.com/shioheii/Certificados/blob/main/Meus%20certificados/Kenzie%20Academy/Maratona%20do%20Zero%20ao%20C%C3%B3digo%20-%20IV%20Edi%C3%A7%C3%A3o.pdf)
